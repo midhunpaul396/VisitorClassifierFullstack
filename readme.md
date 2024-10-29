@@ -93,9 +93,10 @@ The React app should now be running at `http://localhost:3000`, and the Flask AP
 4. Select answers to the questions and submit to view your categorized result.
 
 ### Example Screenshots
-![URL Input](screenshots/url_input.png)
-![Generated Questions](screenshots/questions.png)
-![Categorized Result](screenshots/result.png)
+![image](https://github.com/user-attachments/assets/3787926c-4938-41c0-81ff-706d3883a442)
+![image](https://github.com/user-attachments/assets/1049446b-fcaf-467a-9e6d-6aa3decb7c31)
+
+
 
 ## Project Structure
 
