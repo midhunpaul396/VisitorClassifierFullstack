@@ -1,6 +1,9 @@
 # React + Flask Web Scraper with OpenAI Integration
 
 This project is a full-stack web application that uses React for the frontend and Flask for the backend. The app allows users to submit a URL, scrapes the content, generates questions based on the content using OpenAI's GPT API, and categorizes users based on their answers.
+![image](https://github.com/user-attachments/assets/108919fa-a40f-4450-8c9d-c0fd0ab26d59)
+![image](https://github.com/user-attachments/assets/ed62e099-e7f1-469a-8192-ec54ff6b043b)
+
 
 ## Table of Contents
 
